@@ -8,7 +8,7 @@ import { WisheService } from '../../service/wishe.service';
 })
 export class Tab1Page {
 
-  constructor( public wisheService: WisheService ) {
+  constructor( public wisheService: WisheService) {
 
 
   }

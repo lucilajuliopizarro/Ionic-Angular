@@ -15,6 +15,7 @@ export class WisheService {
      const lista2 = new Lista('heroes a desaparecer');
 
      this.listas.push(lista1,lista2);
+
      
   }
 }
